@@ -3,7 +3,7 @@
 Instruções do teste
 ------
 
-Desenvolva uma API REST em linguagem Python que seja acessível localmente e verifique se um determinado número de CPF está em uma        *Blacklist*.
+Desenvolva uma API REST utilizando a biblioteca Flask em linguagem Python que seja acessível localmente e verifique se um determinado número de CPF está em uma        *Blacklist*.
 
 A aplicação deve:
  
